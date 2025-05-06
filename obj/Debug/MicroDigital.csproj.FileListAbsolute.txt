@@ -1,0 +1,20 @@
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\bin\Debug\MicroDigital.exe.config
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\bin\Debug\MicroDigital.exe
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\bin\Debug\MicroDigital.pdb
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\obj\Debug\MicroDigital.csproj.AssemblyReference.cache
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\obj\Debug\MicroDigital.Form1.resources
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\obj\Debug\MicroDigital.Properties.Resources.resources
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\obj\Debug\MicroDigital.csproj.GenerateResource.cache
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\obj\Debug\MicroDigital.csproj.CoreCompileInputs.cache
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\obj\Debug\MicroDigital.exe
+D:\Estudos\Projeto Atividade Técnica Microondas\MicroDigital\obj\Debug\MicroDigital.pdb
+D:\Estudos\ProjetoComeco2\MicroDigital\bin\Debug\MicroDigital.exe.config
+D:\Estudos\ProjetoComeco2\MicroDigital\bin\Debug\MicroDigital.exe
+D:\Estudos\ProjetoComeco2\MicroDigital\bin\Debug\MicroDigital.pdb
+D:\Estudos\ProjetoComeco2\MicroDigital\obj\Debug\MicroDigital.csproj.AssemblyReference.cache
+D:\Estudos\ProjetoComeco2\MicroDigital\obj\Debug\MicroDigital.Form1.resources
+D:\Estudos\ProjetoComeco2\MicroDigital\obj\Debug\MicroDigital.Properties.Resources.resources
+D:\Estudos\ProjetoComeco2\MicroDigital\obj\Debug\MicroDigital.csproj.GenerateResource.cache
+D:\Estudos\ProjetoComeco2\MicroDigital\obj\Debug\MicroDigital.csproj.CoreCompileInputs.cache
+D:\Estudos\ProjetoComeco2\MicroDigital\obj\Debug\MicroDigital.exe
+D:\Estudos\ProjetoComeco2\MicroDigital\obj\Debug\MicroDigital.pdb
