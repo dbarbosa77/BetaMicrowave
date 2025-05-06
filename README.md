@@ -1,4 +1,5 @@
 Simulador de Micro-ondas
+
 🔧 Projeto desenvolvido como parte de um desafio técnico para simular o funcionamento de um micro-ondas, com base em regras específicas e boas práticas de desenvolvimento.
 
 ✅ Funcionalidades Implementadas (Nível 1 e 2)
